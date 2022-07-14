@@ -1,0 +1,154 @@
+2017-01-18 19:50:55,700 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2017-01-18 19:50:55,700 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2017-01-18 19:51:00,582 | TRACE | (MainGUI.java:322) | [C]: mntmConnect
+2017-01-18 19:51:00,592 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2017-01-18 19:51:00,592 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2017-01-18 19:51:01,612 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2017-01-18 19:51:01,642 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2017-01-18 19:51:01,642 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2017-01-18 19:51:01,642 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2017-01-18 19:51:01,642 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2017-01-18 19:52:32,697 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t010e0E
+2017-01-18 19:52:32,757 | INFO | (OperationProcessor.java:166) | Received: Sd0v1u689726t89726s1p01000e0E
+2017-01-18 20:02:32,168 | INFO | (OperationProcessor.java:166) | Received: Sd0v1u689726t689727s0p01000e0E
+2017-01-18 20:02:51,358 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t010e0E
+2017-01-18 20:02:51,418 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u1308994t708994s1p00100e0E
+2017-01-18 20:12:50,839 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u1308994t1308995s0p00100e0E
+2017-01-18 20:12:57,359 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t010e0E
+2017-01-18 20:12:57,409 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u1915577t1315578s1p00100e0E
+2017-01-18 20:22:56,830 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u1915577t1915578s0p00100e0E
+2017-01-18 20:23:02,870 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 20:23:14,340 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t010e0E
+2017-01-18 20:23:14,400 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u2533158t1933159s1p00100e0E
+2017-01-18 20:23:34,250 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 20:23:34,300 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t1953081s0p00100e0E
+2017-01-18 20:23:58,790 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:23:59,040 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:23:59,290 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:23:59,550 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:23:59,800 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:00,060 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:00,310 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:00,560 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:00,810 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:01,060 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:01,310 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:01,560 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:01,810 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:02,060 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:02,310 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:02,560 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:02,810 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:03,060 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:03,310 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:03,570 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:03,820 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:04,070 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:04,320 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:04,570 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:24:04,820 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 20:28:21,113 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2017-01-18 20:28:21,113 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2017-01-18 20:28:24,073 | TRACE | (MainGUI.java:322) | [C]: mntmConnect
+2017-01-18 20:28:24,083 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2017-01-18 20:28:24,083 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2017-01-18 20:28:24,903 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2017-01-18 20:28:24,945 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2017-01-18 20:28:24,945 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2017-01-18 20:28:24,945 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2017-01-18 20:28:24,945 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2017-01-18 20:28:49,545 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t030e0E
+2017-01-18 20:28:49,595 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u1823209t23209s1p00100e0E
+2017-01-18 20:45:59,257 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 20:45:59,317 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t1053917s0p00100e0E
+2017-01-18 20:46:09,187 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t030e0E
+2017-01-18 20:46:09,247 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u2863855t1063856s1p00100e0E
+2017-01-18 20:52:41,507 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t030e0E
+2017-01-18 20:52:41,557 | INFO | (OperationProcessor.java:166) | Received: The process is already running.E
+2017-01-18 21:07:02,749 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:02,799 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2318600s0p00100e0E
+2017-01-18 21:07:03,029 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:05,769 | INFO | (OperationProcessor.java:206) | Sent: Sd1v1t030e0E
+2017-01-18 21:07:05,819 | INFO | (OperationProcessor.java:166) | Received: Sd1v1u4121625t2321625s1p01000e0E
+2017-01-18 21:07:07,699 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:07,749 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2323557s0p01000e0E
+2017-01-18 21:07:11,159 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t030e0E
+2017-01-18 21:07:11,209 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u4127017t2327017s1p00100e0E
+2017-01-18 21:07:12,579 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:12,629 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2328442s0p00100e0E
+2017-01-18 21:07:15,969 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t030e0E
+2017-01-18 21:07:16,029 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u4131840t2331841s1p00100e0E
+2017-01-18 21:07:18,079 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:18,129 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2333947s0p00100e0E
+2017-01-18 21:07:18,559 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t030e0E
+2017-01-18 21:07:18,619 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u4134433t2334434s1p00100e0E
+2017-01-18 21:07:20,279 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:20,339 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2336153s0p00100e0E
+2017-01-18 21:07:20,739 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t030e0E
+2017-01-18 21:07:20,789 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u4136608t2336609s1p00100e0E
+2017-01-18 21:07:22,279 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:07:22,339 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2338154s0p00100e0E
+2017-01-18 21:07:23,749 | INFO | (OperationProcessor.java:206) | Sent: Sd1v1t030e0E
+2017-01-18 21:07:23,809 | INFO | (OperationProcessor.java:166) | Received: Sd1v1u4139628t2339628s1p01000e0E
+2017-01-18 21:08:13,939 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:08:13,999 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2389864s0p01000e0E
+2017-01-18 21:08:16,079 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t030e0E
+2017-01-18 21:08:16,129 | INFO | (OperationProcessor.java:166) | Received: Sd0v1u4192001t2392001s1p01000e0E
+2017-01-18 21:08:35,809 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t030e0E
+2017-01-18 21:08:35,869 | INFO | (OperationProcessor.java:166) | Received: The process is already running.E
+2017-01-18 21:08:37,179 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:08:37,229 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2413122s0p01000e0E
+2017-01-18 21:08:37,759 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t030e0E
+2017-01-18 21:08:37,819 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u4213706t2413706s1p00100e0E
+2017-01-18 21:08:42,829 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:08:42,879 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2418775s0p00100e0E
+2017-01-18 21:09:03,259 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t030e0E
+2017-01-18 21:09:03,319 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u4239228t2439228s1p00100e0E
+2017-01-18 21:09:06,749 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-18 21:09:06,809 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t2442724s0p00100e0E
+2017-01-18 21:09:11,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:11,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:11,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:12,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:12,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:12,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:12,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:13,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:13,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:13,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:13,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:14,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:14,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:14,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:14,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:15,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:15,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:15,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:15,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:16,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:16,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:16,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:16,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:17,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:17,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:17,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:17,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:18,169 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:18,419 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:18,669 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:18,919 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:19,179 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:19,429 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:19,679 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:19,929 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:20,179 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:20,429 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:20,679 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:20,929 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:21,179 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:21,429 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:21,679 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:21,929 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:22,179 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:22,429 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2017-01-18 21:09:22,679 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable

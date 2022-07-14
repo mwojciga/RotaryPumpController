@@ -1,0 +1,8 @@
+2017-01-21 21:11:43,824 | TRACE | (MainGUI.java:322) | [C]: mntmConnect
+2017-01-21 21:16:54,394 | TRACE | (MainGUI.java:322) | [C]: mntmConnect
+2017-01-21 21:20:01,783 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2017-01-21 21:20:15,858 | TRACE | (MainGUI.java:323) | [C]: mntmConnect
+2017-01-21 21:20:20,340 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2017-01-21 21:20:21,096 | INFO | (OperationProcessor.java:215) | Could not write data: java.lang.NullPointerException
+2017-01-21 21:20:23,464 | TRACE | (MainGUI.java:285) | [C]: mntmDisconnect
+2017-01-21 21:20:23,465 | INFO | (OperationProcessor.java:151) | Tried to disconnect, but no port was opened.

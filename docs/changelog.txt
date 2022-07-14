@@ -1,0 +1,2 @@
+[1.0.0]1. Initial software.
+[1.0.1]1. Some major changes.

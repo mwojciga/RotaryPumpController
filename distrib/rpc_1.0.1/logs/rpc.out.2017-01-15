@@ -1,0 +1,72 @@
+2017-01-15 11:41:59,606 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2017-01-15 11:41:59,606 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2017-01-15 11:42:16,386 | INFO | (OperationProcessor.java:213) | Could not write data: java.lang.NullPointerException
+2017-01-15 11:42:23,076 | TRACE | (MainGUI.java:322) | [C]: mntmConnect
+2017-01-15 11:42:23,086 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2017-01-15 11:42:23,086 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2017-01-15 11:42:24,296 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2017-01-15 11:42:24,336 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2017-01-15 11:42:24,336 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2017-01-15 11:42:24,336 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2017-01-15 11:42:24,336 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2017-01-15 11:42:26,627 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t001e0E
+2017-01-15 11:42:26,687 | INFO | (OperationProcessor.java:166) | Received: Sd0v1u60878t879s1p01000e0E
+2017-01-15 11:42:45,677 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-15 11:42:45,727 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t19941s0p01000e0E
+2017-01-15 11:42:55,527 | INFO | (OperationProcessor.java:206) | Sent: Sd1v1t001e0E
+2017-01-15 11:42:55,577 | INFO | (OperationProcessor.java:166) | Received: Sd1v1u89799t29799s1p01000e0E
+2017-01-15 11:43:15,597 | INFO | (OperationProcessor.java:209) | Pumps stopped by user!
+2017-01-15 11:43:15,647 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t49890s0p01000e1E
+2017-01-15 11:43:55,697 | INFO | (OperationProcessor.java:206) | Sent: Sd1v1t001e0E
+2017-01-15 11:43:55,747 | INFO | (OperationProcessor.java:166) | Received: Sd1v1u150030t90030s1p01000e0E
+2017-01-15 11:44:00,337 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-15 11:44:00,387 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t94674s0p01000e0E
+2017-01-15 11:44:06,127 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t001e0E
+2017-01-15 11:44:06,187 | INFO | (OperationProcessor.java:166) | Received: Sd1v2u160474t100474s1p00100e0E
+2017-01-15 11:44:10,057 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-15 11:44:10,107 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t104399s0p00100e0E
+2017-01-15 11:44:15,617 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t001e0E
+2017-01-15 11:44:15,667 | INFO | (OperationProcessor.java:166) | Received: Sd0v1u169967t109967s1p01000e0E
+2017-01-15 11:44:20,457 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-15 11:44:20,507 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t114816s0p01000e0E
+2017-01-15 11:44:27,727 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t001e0E
+2017-01-15 11:44:27,787 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u182092t122092s1p00100e0E
+2017-01-15 11:45:27,727 | INFO | (OperationProcessor.java:166) | Received: Sd0v2u182092t182093s0p00100e0E
+2017-01-15 11:45:37,537 | INFO | (OperationProcessor.java:206) | Sent: Sd1v1t001e0E
+2017-01-15 11:45:37,587 | INFO | (OperationProcessor.java:166) | Received: Sd1v1u251962t191962s1p01000e0E
+2017-01-15 11:45:39,757 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:39,807 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t194187s1p01000e0E
+2017-01-15 11:45:40,947 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:41,007 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t195383s1p01000e0E
+2017-01-15 11:45:41,757 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:41,807 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t196189s1p01000e0E
+2017-01-15 11:45:42,437 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:42,487 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t196870s1p01000e0E
+2017-01-15 11:45:42,977 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:43,037 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t197413s1p01000e0E
+2017-01-15 11:45:43,467 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:43,517 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t197900s1p01000e0E
+2017-01-15 11:45:43,857 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t000e0E
+2017-01-15 11:45:43,907 | INFO | (OperationProcessor.java:166) | Received: Sd0v3u251962t198288s1p01000e0E
+2017-01-15 11:45:45,317 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:45,377 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t199755s1p01000e0E
+2017-01-15 11:45:45,877 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:45,937 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t200320s1p01000e0E
+2017-01-15 11:45:46,307 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:46,367 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t200747s1p01000e0E
+2017-01-15 11:45:46,657 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:46,717 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t201097s1p01000e0E
+2017-01-15 11:45:46,957 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:47,017 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t201398s1p01000e0E
+2017-01-15 11:45:47,227 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:47,287 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t201669s1p01000e0E
+2017-01-15 11:45:47,817 | INFO | (OperationProcessor.java:206) | Sent: Sd0v4t000e0E
+2017-01-15 11:45:47,867 | INFO | (OperationProcessor.java:166) | Received: Sd0v4u251962t202253s1p01000e0E
+2017-01-15 11:45:49,167 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-15 11:45:49,237 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t203603s0p01000e0E
+2017-01-15 11:46:42,707 | INFO | (OperationProcessor.java:206) | Sent: Sd1v1t010e0E
+2017-01-15 11:46:42,767 | INFO | (OperationProcessor.java:166) | Received: Sd1v1u857201t257202s1p01000e0E
+2017-01-15 11:54:08,898 | INFO | (OperationProcessor.java:206) | Sent: Sd0v0t000e0E
+2017-01-15 11:54:08,958 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t703808s0p01000e0E
+2017-01-15 11:54:58,868 | INFO | (OperationProcessor.java:209) | Pumps stopped by user!
+2017-01-15 11:54:58,918 | INFO | (OperationProcessor.java:166) | Received: Sd0v0u0t753815s0p01000e1E

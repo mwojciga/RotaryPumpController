@@ -1,0 +1,53 @@
+2016-12-19 00:17:07,793 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-19 00:17:07,793 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-19 00:17:15,723 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-19 00:17:15,733 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-19 00:17:15,733 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-19 00:17:17,213 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-19 00:17:17,253 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-19 00:17:17,253 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-19 00:17:17,253 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-19 00:17:17,253 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-19 00:17:26,994 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t001e0E
+2016-12-19 00:17:27,054 | INFO | (OperationProcessor.java:166) | Received: 0
+1
+0
+60
+1
+Su68336d0v1t8337e0E
+2016-12-19 00:18:26,991 | INFO | (OperationProcessor.java:166) | Received: 2
+Su68336d0v1t68337e0E
+2016-12-19 00:19:38,505 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t001e0E
+2016-12-19 00:19:38,565 | INFO | (OperationProcessor.java:166) | Received: 1
+2
+0
+60
+1
+Su199972d1v2t139973e0E
+2016-12-19 00:20:38,495 | INFO | (OperationProcessor.java:166) | Received: 2
+Su199972d1v2t199973e0E
+2016-12-19 00:22:50,115 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-19 00:22:50,165 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-19 00:22:50,165 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-19 00:24:06,991 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-19 00:24:06,993 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-19 00:24:20,370 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-19 00:24:20,390 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-19 00:24:20,390 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-19 00:24:21,590 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-19 00:24:21,620 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-19 00:24:21,620 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-19 00:24:21,620 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-19 00:24:21,620 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-19 00:24:28,081 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t001e0E
+2016-12-19 00:24:28,121 | INFO | (OperationProcessor.java:166) | Received: Sd0v1t5040e0E
+2016-12-19 00:25:28,071 | INFO | (OperationProcessor.java:166) | Received: Sd0v1t65041e0E
+2016-12-19 00:26:01,203 | INFO | (OperationProcessor.java:206) | Sent: Sd1v4t002e0E
+2016-12-19 00:26:01,243 | INFO | (OperationProcessor.java:166) | Received: Sd1v4t98252e0E
+2016-12-19 00:28:01,133 | INFO | (OperationProcessor.java:166) | Received: Sd1v4t218253e0E
+2016-12-19 00:28:32,475 | INFO | (OperationProcessor.java:206) | Sent: Sd0v3t001e0E
+2016-12-19 00:28:32,525 | INFO | (OperationProcessor.java:166) | Received: Sd0v3t249667e0E
+2016-12-19 00:29:32,467 | INFO | (OperationProcessor.java:166) | Received: Sd0v3t309668e0E
+2016-12-19 00:30:17,638 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-19 00:30:17,658 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-19 00:30:17,658 | INFO | (OperationProcessor.java:144) | IOStream closed.

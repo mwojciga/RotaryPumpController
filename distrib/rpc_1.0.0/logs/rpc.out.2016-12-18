@@ -1,0 +1,162 @@
+2016-12-18 16:11:30,596 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 16:11:30,596 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 16:11:40,336 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 16:11:40,346 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 16:11:40,346 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 16:11:41,416 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 16:11:41,456 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 16:11:41,456 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 16:11:41,456 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 16:11:41,456 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 16:11:42,717 | INFO | (OperationProcessor.java:206) | Sent: Sd1v2t121e0E
+2016-12-18 16:11:50,137 | INFO | (OperationProcessor.java:209) | Pumps stopped by user!
+2016-12-18 16:11:57,687 | INFO | (OperationProcessor.java:206) | Sent: Sd0v1t122e0E
+2016-12-18 16:12:29,927 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-18 16:12:29,947 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-18 16:12:29,947 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-18 16:12:33,227 | INFO | (OperationProcessor.java:213) | Could not write data: java.io.IOException
+2016-12-18 18:50:44,049 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 18:50:44,052 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 18:50:46,129 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 18:50:46,138 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 18:50:46,138 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 18:50:47,159 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 18:50:47,185 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 18:50:47,186 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 18:50:47,186 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 18:50:47,186 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 18:50:48,659 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t0e0E
+2016-12-18 18:52:28,090 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t002e0E
+2016-12-18 18:52:28,137 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t1e0E
+2016-12-18 18:52:28,157 | INFO | (OperationProcessor.java:166) | Received: Su99567d0v2t99567e0E
+2016-12-18 18:55:45,824 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-18 18:55:45,840 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-18 18:55:45,843 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-18 18:56:01,873 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 18:56:01,886 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 18:56:01,886 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 18:56:02,947 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 18:56:02,965 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 18:56:02,965 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 18:56:02,966 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 18:56:02,966 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 18:56:04,440 | INFO | (OperationProcessor.java:166) | Received: Su99567d0v2t99568e0E
+2016-12-18 18:56:19,937 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t002e0E
+2016-12-18 18:56:19,984 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t0e0E
+2016-12-18 18:56:20,011 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t1e0E
+2016-12-18 18:58:38,728 | INFO | (OperationProcessor.java:166) | Received: 0
+2
+0
+0
+Su15556d0v2t15556e0E
+2016-12-18 18:58:43,361 | INFO | (OperationProcessor.java:166) | Received: Su15556d0v2t15557e0E
+2016-12-18 18:58:46,786 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t0e0E
+2016-12-18 19:02:38,233 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-18 19:02:38,254 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-18 19:02:38,255 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-18 19:02:51,136 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 19:02:51,144 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 19:02:51,145 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 19:02:52,066 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 19:02:52,083 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 19:02:52,083 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 19:02:52,083 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 19:02:52,083 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 19:02:57,088 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t002e0E
+2016-12-18 19:02:57,144 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t1e0E
+2016-12-18 19:02:57,157 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t0e0E
+2016-12-18 19:04:08,601 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-18 19:04:08,623 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-18 19:04:08,623 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-18 19:04:20,122 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 19:04:20,133 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 19:04:20,133 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 19:04:21,066 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 19:04:21,085 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 19:04:21,085 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 19:04:21,085 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 19:04:21,086 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 19:04:23,289 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t002e0E
+2016-12-18 19:04:23,335 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t1e0E
+2016-12-18 19:04:23,356 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t0e0E
+2016-12-18 19:05:36,000 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-18 19:05:36,014 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-18 19:05:36,014 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-18 19:05:47,561 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 19:05:47,571 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 19:05:47,571 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 19:05:48,442 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 19:05:48,460 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 19:05:48,460 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 19:05:48,460 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 19:05:48,460 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 19:05:51,737 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t002e0E
+2016-12-18 19:05:51,784 | INFO | (OperationProcessor.java:166) | Received: Su0d0v0t1e0E
+2016-12-18 19:05:51,813 | INFO | (OperationProcessor.java:166) | Received: 0
+2
+0
+0
+Su3577d0v2t3578e0E
+2016-12-18 19:07:18,722 | TRACE | (MainGUI.java:242) | [C]: mntmDisconnect
+2016-12-18 19:07:18,746 | INFO | (OperationProcessor.java:139) | Disconnected from //./COM2
+2016-12-18 19:07:18,747 | INFO | (OperationProcessor.java:144) | IOStream closed.
+2016-12-18 19:07:34,080 | TRACE | (MainGUI.java:262) | [C]: mntmConnect
+2016-12-18 19:07:34,088 | INFO | (OperationProcessor.java:76) | Found port: COM2
+2016-12-18 19:07:34,088 | INFO | (OperationProcessor.java:80) | COM2 is a serial port. Added.
+2016-12-18 19:07:34,866 | INFO | (OperationProcessor.java:87) | Connecting to COM2
+2016-12-18 19:07:34,883 | INFO | (OperationProcessor.java:97) | Successfully connected to //./COM2
+2016-12-18 19:07:34,884 | INFO | (OperationProcessor.java:109) | Opening IOStream.
+2016-12-18 19:07:34,884 | INFO | (OperationProcessor.java:115) | IOStream successfully opened.
+2016-12-18 19:07:34,885 | INFO | (OperationProcessor.java:126) | Initializing listener.
+2016-12-18 19:07:44,256 | INFO | (OperationProcessor.java:206) | Sent: Sd0v2t002e0E
+2016-12-18 19:07:44,303 | INFO | (OperationProcessor.java:166) | Received: Su3577d0v2t3578e0E
+2016-12-18 19:07:44,312 | INFO | (OperationProcessor.java:166) | Received: 0
+2
+0
+0
+Su776d0v2t777e0E
+2016-12-18 19:09:31,192 | INFO | (OperationProcessor.java:206) | Sent: Sd1v3t002e0E
+2016-12-18 19:09:31,239 | INFO | (OperationProcessor.java:166) | Received: Su776d0v2t777e0E
+2016-12-18 19:09:31,259 | INFO | (OperationProcessor.java:166) | Received: 0
+2
+0
+0
+1
+Su1850d0v2t1850e0E
+2016-12-18 19:11:31,123 | INFO | (OperationProcessor.java:166) | Received: 2
+Su1850d0v2t1851e0E
+2016-12-18 19:47:51,857 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:51,911 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:51,960 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,009 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,068 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,112 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,156 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,203 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,248 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,292 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,337 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,382 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,429 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,473 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,517 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,572 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,643 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,687 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,731 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,777 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,823 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,869 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,916 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:52,965 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,011 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,058 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,104 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,152 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,199 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,246 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,317 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,362 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,406 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,452 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
+2016-12-18 19:47:53,495 | ERROR | (OperationProcessor.java:179) | java.io.IOException: No error in nativeavailable
